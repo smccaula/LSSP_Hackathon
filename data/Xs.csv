@@ -1,0 +1,42 @@
+Market,Symbol,Name,LastSale,MarketCap,IPOyear,Sector,industry,Summary Quote
+AMEX,XPL,Solitario Exploration & Royalty Corp,0.91,$35.72M,n/a,Basic Industries,Precious Metals,http://www.nasdaq.com/symbol/xpl
+AMEX,XRA,Exeter Resource Corporation,0.5005,$44.25M,n/a,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels),http://www.nasdaq.com/symbol/xra
+NYSE,X,United States Steel Corporation,24.01,$3.5B,n/a,Basic Industries,Steel/Iron Ore,http://www.nasdaq.com/symbol/x
+NYSE,XIN,Xinyuan Real Estate Co Ltd,3.19,$241.07M,2007,Basic Industries,Homebuilding,http://www.nasdaq.com/symbol/xin
+NYSE,XRM,"Xerium Technologies, Inc.",15.11,$235.05M,2005,Basic Industries,Textiles,http://www.nasdaq.com/symbol/xrm
+NYSE,XYL,Xylem Inc.,35.58,$6.49B,2011,Capital Goods,Fluid Controls,http://www.nasdaq.com/symbol/xyl
+NASDAQ,XCRA,Xcerra Corporation,9.01,$490.38M,n/a,Capital Goods,Electrical Products,http://www.nasdaq.com/symbol/xcra
+NASDAQ,XONE,The ExOne Company,14.64,$211.44M,2013,Capital Goods,Industrial Machinery/Components,http://www.nasdaq.com/symbol/xone
+NASDAQ,XXIA,Ixia,11.86,$929.77M,2000,Capital Goods,Electrical Products,http://www.nasdaq.com/symbol/xxia
+NYSE,XLS,Exelis Inc.,24.05,$4.48B,2011,Consumer Durables,Telecommunications Equipment,http://www.nasdaq.com/symbol/xls
+NASDAQ,XGTI,"XG Technology, Inc",0.4289,$10.73M,2013,Consumer Durables,Telecommunications Equipment,http://www.nasdaq.com/symbol/xgti
+NASDAQ,XGTIW,"XG Technology, Inc",0.27,n/a,2013,Consumer Durables,Telecommunications Equipment,http://www.nasdaq.com/symbol/xgtiw
+AMEX,XXII,"22nd Century Group, Inc",1.2,$77.2M,n/a,Consumer Non-Durables,Farming/Seeds/Milling,http://www.nasdaq.com/symbol/xxii
+NYSE,XNY,China Xiniya Fashion Limited,2.0001,$28.47M,2010,Consumer Non-Durables,Apparel,http://www.nasdaq.com/symbol/xny
+NYSE,XHR,"Xenia Hotels & Resorts, Inc.",21.37,n/a,2015,Consumer Services,Hotels/Resorts,http://www.nasdaq.com/symbol/xhr
+NYSE,XOXO,"XO Group, Inc.",15.5,$416.69M,n/a,Consumer Services,Other Consumer Services,http://www.nasdaq.com/symbol/xoxo
+NYSE,XPO,"XPO Logistics, Inc.",45.4,$3.6B,n/a,Consumer Services,Transportation Services,http://www.nasdaq.com/symbol/xpo
+NYSE,XRS,TAL Education Group,31.05,$2.45B,2010,Consumer Services,Other Consumer Services,http://www.nasdaq.com/symbol/xrs
+NYSE,XUE,Xueda Education Group,2.67,$178.37M,2010,Consumer Services,Other Consumer Services,http://www.nasdaq.com/symbol/xue
+NYSE,XCO,EXCO Resources NL,1.98,$542.05M,2006,Energy,Oil & Gas Production,http://www.nasdaq.com/symbol/xco
+NYSE,XEC,Cimarex Energy Co,111.1,$9.73B,n/a,Energy,Oil & Gas Production,http://www.nasdaq.com/symbol/xec
+NYSE,XOM,Exxon Mobil Corporation,86.74,$363.85B,n/a,Energy,Integrated oil Companies,http://www.nasdaq.com/symbol/xom
+NYSE,XKE,Lehman ABS Corporation,6.0452,n/a,n/a,Finance,Finance: Consumer Services,http://www.nasdaq.com/symbol/xke
+NYSE,XL,XL Group plc,36.71,$9.37B,n/a,Finance,Property-Casualty Insurers,http://www.nasdaq.com/symbol/xl
+NASDAQ,XBKS,"Xenith Bankshares, Inc.",6.35,$82.06M,n/a,Finance,Major Banks,http://www.nasdaq.com/symbol/xbks
+NASDAQ,XIV,VelocityShares Daily Inverse VIX Short Term ETN,33.59,$521.11M,n/a,Finance,Investment Bankers/Brokers/Service,http://www.nasdaq.com/symbol/xiv
+NASDAQ,XOOM,Xoom Corporation,16.46,$636.99M,2013,Finance,Investment Bankers/Brokers/Service,http://www.nasdaq.com/symbol/xoom
+NYSE,XON,Intrexon Corporation,49.5,$5.2B,2013,Health Care,Biotechnology: Commercial Physical & Biological Resarch,http://www.nasdaq.com/symbol/xon
+NASDAQ,XENE,Xenon Pharmaceuticals Inc.,19.45,$275.83M,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/xene
+NASDAQ,XENT,"Intersect ENT, Inc.",25.26,$590.5M,2014,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/xent
+NASDAQ,XLRN,Acceleron Pharma Inc.,41.34,$1.35B,2013,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/xlrn
+NASDAQ,XNCR,"Xencor, Inc.",16,$640.95M,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/xncr
+NASDAQ,XNPT,"XenoPort, Inc.",7.13,$447.46M,2005,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/xnpt
+NASDAQ,XOMA,XOMA Corporation,3.655,$423.59M,1986,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/xoma
+NASDAQ,XRAY,DENTSPLY International Inc.,52.64,$7.39B,1987,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/xray
+NASDAQ,XTLB,XTL Biopharmaceuticals Ltd.,2.44,$28.41M,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/xtlb
+NYSE,XRX,Xerox Corporation,13.52,$15.04B,n/a,Miscellaneous,Business Services,http://www.nasdaq.com/symbol/xrx
+NYSE,XEL,Xcel Energy Inc.,34.93,$17.67B,n/a,Public Utilities,Power Generation,http://www.nasdaq.com/symbol/xel
+NASDAQ,XLNX,"Xilinx, Inc.",41.38,$10.82B,1990,Technology,Semiconductors,http://www.nasdaq.com/symbol/xlnx
+NASDAQ,XNET,Xunlei Limited,6.85,$445.36M,2014,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/xnet
+NASDAQ,XPLR,Xplore Technologies Corp,6.08,$51.55M,n/a,Technology,Computer Manufacturing,http://www.nasdaq.com/symbol/xplr
